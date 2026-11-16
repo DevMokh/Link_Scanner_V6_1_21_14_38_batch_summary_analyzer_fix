@@ -1,0 +1,2 @@
+# Link_Scanner_V6_1_21_14_38_batch_summary_analyzer_fix
+Flutter project created by KLENCOD IDE
